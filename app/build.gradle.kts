@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.joao.santana.rickandmorty"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.joao.santana.rickandmorty"

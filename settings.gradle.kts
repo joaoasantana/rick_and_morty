@@ -14,5 +14,9 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "rickAndMorty"
+
+// application.
 include(":app")
- 
+
+// components.
+include(":component:character:domain")
