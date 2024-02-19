@@ -19,4 +19,5 @@ rootProject.name = "rickAndMorty"
 include(":app")
 
 // components.
+include(":component:character:data")
 include(":component:character:domain")
